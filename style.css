@@ -1,0 +1,241 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.donate-button{
+    text-decoration: none;
+    background-color: rgb(193, 108, 108);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.first-donation{
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-image: url(images/donation13.jpg);
+    height: 680px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+/* .first-donation img{
+    height: 500px;
+} */
+
+.font-size{
+    font-size: 60px;
+}
+.font-size2{
+    font-size: 40px;
+}
+.second-donation{
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.amount{
+    display: flex;
+    /* width: 50%; */
+    padding-left: 15%;
+    padding-top: 70px;
+    color: rgb(162, 127, 162);
+}
+h1{
+    padding-left: 50px;
+    font-size: 30px;
+}
+.amount-200tk{
+    border: 5px solid rgb(241, 99, 99);
+    border-radius: 5px;
+    /* padding-left: 30px;*/
+    padding-right: 50px; 
+}
+.amount-100tk{
+    padding-right: 50px;
+}
+.more-donation{
+    text-align: center;
+}
+.hr-amount{
+    color: rgb(75, 180, 222);
+}
+hr{
+    width: 50%;
+    padding-bottom: 40px ;
+    /* border-top: 5px solid ; */
+    border-left: none;
+}
+.donate-button2{
+    text-decoration: none;
+    background-color: rgb(247, 144, 144);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 30px;
+}
+.second-paragraph{
+    color: rgb(41, 102, 126);
+    font-size: 20px;
+}
+.first-paragraph{
+    font-size: 20px;
+}
+.donate-plan1{
+    text-align: center;
+    margin: 10%;
+    padding-right: 45px;
+}
+.donate-plan1 p{
+    color: rgb(43, 75, 87);
+}
+.all-plans{
+    display: flex;
+    text-align: justify;
+    /* width: 100%; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    padding-left: 5px;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.food-plan{
+    background-color: rgb(227, 239, 244);
+    
+    margin-right: 20px;
+}
+.food-plan img{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.shelter-plan{
+    background-color: rgb(227, 239, 244);
+    margin-right: 20px;
+}
+.shelter-plan img{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.education-plan{
+    background-color: rgb(227, 239, 244);
+    margin-right: 20px;
+}
+.education-plan img{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.plan-heading-paragraph{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.all-plans p{
+    color: rgb(43, 75, 87);
+}
+.contribution{
+    display: flex;
+    margin-top: 10%;
+    /* width: 100%; */
+    /* padding: 5% 10%; */
+    width: 100%;
+}
+.contribution img{
+    /* padding-left: 30px; */
+    width: 82%;
+    /* margin-top: 2%; */
+    margin-left: 4%;
+    padding-right: 100px;
+    height: 100%;
+    border-radius: 10px;
+}
+.contribution1{
+    text-align: justify;
+    width: 50%;
+    margin-right: 10%;
+    margin-left: 6%;
+}
+.contribution-h1{
+    text-align: justify;
+    font-size: 40px;
+}
+.contribution1 p{
+    color:rgb(43, 75, 87);
+}
+.contribute{
+    display: flex;
+    margin-top: 10%;
+}
+.contribute img{
+    /* padding-left: 30px; */
+    width: 82%;
+    /* margin-top: 2%; */
+    margin-left: 4%;
+    padding-left: 40px;
+    margin-top: 28%;
+    /* padding-right: 100px; */
+    height: 60%;
+    border-radius: 10px;
+}
+.contribute1{
+    text-align: justify;
+    width:80%;
+    margin-right: 10%;
+    margin-left: 6%;
+    height: 10%;
+}
+.contribute1 p{
+    color:rgb(43, 75, 87);
+}
+.contribute-h1{
+    text-align: left;
+    font-size: 40px;
+}
+.myself-updates{
+    text-align: center;
+}
+.myself-updates h1{
+    font-size: 40px;
+    padding-right: 50px;
+}
+.myself-updates p{
+    color:rgb(43, 75, 87);
+}
+.update-button{
+    text-decoration: none;
+    background-color: rgb(193, 108, 108);
+    color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+.email{
+    text-align: center;
+    margin-top: 5%;
+    background-color: rgb(215, 229, 234);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin-left: 25%;
+}
+.email-2{
+    background-color: rgb(170, 170, 217);
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+.footer-ending{
+    text-align: center;
+    background-color: rgb(24, 17, 30);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 5%;
+}
+.footer-ending h1{
+    font-family: 'Lobster', cursive;
+    color: rgb(181, 97, 124);
+    padding-right: 45px;
+}
+.footer-ending p{
+    color: white;
+}
